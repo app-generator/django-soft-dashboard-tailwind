@@ -1,0 +1,1 @@
+# django-soft-dashboard-tailwind
