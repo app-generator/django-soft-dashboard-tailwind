@@ -8,3 +8,8 @@ pip install -r requirements.txt
 
 python manage.py collectstatic --no-input
 python manage.py migrate
+
+# compile SCSS
+yarn 
+yarn build
+yarn min-css
