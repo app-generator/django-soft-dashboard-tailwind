@@ -166,8 +166,13 @@ The project is coded using a simple and intuitive structure presented below:
 - Regenerate the CSS
 
 ```bash
-$ npm i
-$ npm run build
+$ npm i            # Install modules
+$ npm run build    # Recompile SCSS to CSS
+$ npm run min-css  # Minify CSS
+// OR 
+$ yarn             # (via Yarn) Install modules
+$ yarn build       # (via Yarn) Recompile SCSS to CSS
+$ yarn min-css     # (via Yarn) Minify CSS
 ```
 
 <br />
