@@ -900,6 +900,10 @@ h6 {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
 }
+.mx-8 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
 
 .mx-auto {
   margin-left: auto;
@@ -1089,6 +1093,9 @@ h6 {
 .ml-6 {
   margin-left: 1.5rem;
 }
+.ml-7 {
+  margin-left: 1.75rem;
+}
 
 .-mt-16 {
   margin-top: -4rem;
@@ -1104,6 +1111,10 @@ h6 {
 
 .ml-0 {
   margin-left: 0px;
+}
+
+.ml-15 {
+  margin-left: 3.75rem;
 }
 
 .mr-auto {
@@ -1964,6 +1975,56 @@ h6 {
   background-color: inherit;
 }
 
+.bg-blue-400 {
+  background-color: rgb(96 165 250);
+}
+.bg-blue-500 {
+  background-color: rgb(59 130 246);
+}
+.bg-blue-600 {
+  background-color: rgb(37 99 235);
+}
+
+.bg-green-400 {
+  background-color: rgb(74 222 128);
+}
+.bg-green-500 {
+  background-color: rgb(34 197 94);
+}
+.bg-green-600 {
+  background-color: rgb(22 163 74);
+}
+
+.bg-teal-400 {
+  background-color: rgb(45 212 191);
+}
+.bg-teal-500 {
+  background-color: rgb(20 184 166);
+}
+.bg-teal-600 {
+  background-color: rgb(13 148 136);
+}
+
+.bg-orange-400 {
+  background-color: rgb(251 146 60);
+}
+.bg-orange-500 {
+  background-color: rgb(249 115 22);
+}
+.bg-orange-600 {
+  background-color: rgb(234 88 12);
+}
+
+.bg-red-400 {
+  background-color: rgb(248 113 113);
+}
+.bg-red-500 {
+  background-color: rgb(239 68 68);
+}
+.bg-red-600 {
+  background-color: rgb(220 38 38);
+}
+
 .bg-fuchsia-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(203 12 159 / var(--tw-bg-opacity));
@@ -2117,7 +2178,6 @@ h6 {
 .bg-clip-border {
   background-clip: border-box;
 }
-
 .bg-clip-padding {
   background-clip: padding-box;
 }
@@ -2588,6 +2648,16 @@ h6 {
   color: rgb(234 6 6 / var(--tw-text-opacity));
 }
 
+.text-green-500 {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94);
+}
+
+.text-green-600 {
+  --tw-text-opacity: 1;
+  color: rgb(22 163 74);
+}
+
 .text-lime-500 {
   --tw-text-opacity: 1;
   color: rgb(130 214 22 / var(--tw-text-opacity));
@@ -2634,6 +2704,12 @@ h6 {
 .text-blue-800 {
   --tw-text-opacity: 1;
   color: rgb(52 78 134 / var(--tw-text-opacity));
+}
+.text-blue-500 {
+  color: rgb(59 130 246);
+}
+.text-blue-600 {
+  color: rgb(37 99 235);
 }
 
 .text-sky-600 {
