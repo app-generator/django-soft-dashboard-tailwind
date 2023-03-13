@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: django-datta
+    name: django-soft-tailwind
     plan: starter
     env: python
     region: frankfurt  # region should be same as your database region.
