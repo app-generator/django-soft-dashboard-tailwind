@@ -189,5 +189,21 @@ $ yarn min-css     # (via Yarn) Minify CSS
 
 <br />
 
+## [Soft Tailwind Django](https://appseed.us/product/soft-dashboard-tailwind-pro/django/) `PRO`
+
+Premium **Django Dashboard** crafted on top of [Soft Dashboard Tailwind](https://appseed.us/product/soft-dashboard-tailwind-pro/django/), the premium version.  
+
+- ✅ Design: [Soft Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-pro-tailwind?AFFILIATE=128200) by `Creative-Tim`
+- ✅ Styling: `Tailwind CSS`
+- ✅ `Up-to-date dependencies`
+- ✅ `Session-Based authentication`, Forms validation
+- ✅ `Admin Section` Styled (reserved for superusers)
+- ✅ `Docker`
+- 🚀 `CI/CD` flow via `Render`
+
+[![Soft Dashboard Tailwind PRO - Premium Django starter crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/227284620-c235e50e-f707-427a-9f76-bf08177fb1e1.png)](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
+
+<br />
+
 ---
 [Soft Dashboard Tailwind Django](https://appseed.us/product/soft-dashboard-tailwind/django/) - Free starter provided by **[AppSeed](https://appseed.us/)**.
